@@ -131,7 +131,7 @@ header h1 {
 .cd-timeline-img img {
   display: block;
   position: relative;
-  padding: 10px;  
+   
 }
 .cd-timeline-img.cd-green {
   background: #75ce66;
